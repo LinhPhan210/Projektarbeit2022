@@ -1,0 +1,3 @@
+iopub data rate exceeded. the notebook server will temporarily stop sending output
+	Run jupyter with: jupyter notebook --NotebookApp.iopub_data_rate_limit=1.0e10
+	https://stackoverflow.com/questions/43288550/iopub-data-rate-exceeded-in-jupyter-notebook-when-viewing-image
